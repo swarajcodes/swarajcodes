@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Swaraj Mohapatra</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
-- 🔭 I’m currently working on [SpenSave](github.com/swarajcodes/SpenSave)
+- 🔭 I’m currently working on [Chatty](github.com/swarajcodes/chat-app)
 
-- 🌱 I’m currently learning **KMM,Ktor,Koin**
+- 🌱 I’m currently learning **NextJs**
 
-- 👯 I’m looking to collaborate on [Swhoop](github.com/swarajcodes/Swhoop)
+- 👯 I’m looking to collaborate on [Story-Genie](github.com/swarajcodes/story-genie)
 
-- 💬 Ask me about **Native Android development**
+- 💬 Ask me about *Backend development **
 
 - 📫 How to reach me **swarajm207@gmail.com**
 
