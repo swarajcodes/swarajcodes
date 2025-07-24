@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swarajcodes&show_icons=true&locale=en" alt="swarajcodes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarajcodes&" alt="swarajcodes" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=swarajcodes&theme=vue-dark)](https://git.io/streak-stats)
